@@ -1,0 +1,2 @@
+# including .env files to overwrite specific properties locally
+io.smallrye.config.DotEnvConfigSourceProvider

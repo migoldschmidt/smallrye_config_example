@@ -1,0 +1,22 @@
+= MicroProfile Config used in Tests with SmallRye Config 
+
+
+Some projects are using Microprofile Config within their codebase but when it comes to testing, they lack an implementation which can be used in tests as well.
+
+This example project contains usage examples of https://github.com/smallrye/smallrye-config[SmallRye Config] , an implementation of https://github.com/eclipse/microprofile-config/[Eclipse MicroProfile Config].
+
+
+== Running
+
+
+[source,bash]
+----
+mvn install
+----
+
+== Further resources
+
+- https://github.com/eclipse/microprofile-config/[Configuration for MicroProfile^]
+- https://smallrye.io/docs/smallrye-config/index.html[SmallRye Config Documentation^]
+- https://blog.sebastian-daschner.com/entries/complex-project-setups-testcontainers[Running complex project setups with Testcontainers^], many thanks to Sebastian Daschner from whom I stole the idea and initial code base.
+
