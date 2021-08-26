@@ -1,9 +1,14 @@
+#project
+.env
+
+#mvn 
 target/
 
+# idea
 *.iml
 .idea/
 
+# vs-code
 .classpath
 .project
-
-.env
+.settings/
