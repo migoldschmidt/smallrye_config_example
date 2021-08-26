@@ -2,6 +2,8 @@ target/
 
 *.iml
 .idea/
+
 .classpath
+.project
 
 .env
