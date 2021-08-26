@@ -3,7 +3,7 @@
 
 Some projects are using Microprofile Config within their codebase but when it comes to testing, they lack an implementation which can be used in tests as well.
 
-This example project contains usage examples of https://github.com/smallrye/smallrye-config[SmallRye Config] , an implementation of https://github.com/eclipse/microprofile-config/[Eclipse MicroProfile Config].
+This example project contains usage examples of https://github.com/smallrye/smallrye-config[SmallRye Config], an implementation of https://github.com/eclipse/microprofile-config/[Eclipse MicroProfile Config].
 
 
 == Running
