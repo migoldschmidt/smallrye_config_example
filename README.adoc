@@ -1,6 +1,3 @@
-Test for later
-STRG+SHIFT+V
-
 = MicroProfile Config used in Tests with SmallRye Config 
 
 
