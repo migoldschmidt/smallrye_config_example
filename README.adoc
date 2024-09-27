@@ -1,5 +1,3 @@
-Test editing
-
 = MicroProfile Config used in Tests with SmallRye Config 
 
 
